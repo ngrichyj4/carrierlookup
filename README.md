@@ -1,4 +1,3 @@
-
 ## Description
 
 Simple, fast, way to lookup a north american phone number carrier.
@@ -44,7 +43,7 @@ Number can be in any format:
 Rest API:
 
     json : success
-    "
+    
     {
         "status": 0
         "carrier": "TELUS Mobility",
@@ -73,4 +72,4 @@ Gem:
     
 ## License
 
-See the include LICENSE file for details.
+See the included LICENSE file for details.
