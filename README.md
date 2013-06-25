@@ -17,7 +17,7 @@ or Gemfile:
 You can now use the library to lookup carriers this way:
 
 ```ruby
-require 'carrierloopup'
+require 'carrierlookup'
 
 @data = Carrier::Lookup::Perform.new
 @data.lookup(
